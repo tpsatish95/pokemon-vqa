@@ -4,6 +4,11 @@
 
 **Team Members:** Satish Palaniappan, Ayush Agarwal, Sonakshi Grover
 
+## Results
+
+![Pokemon VQA Results](results/results_9x9_0.png)
+![Pokemon VQA Results](results/results_9x9_1.png)
+
 ## Pokemon VQA Model's Workflow
 ![Pokemon VQA Workflow](VQA_Pokemon_Workflow.jpg)
 
